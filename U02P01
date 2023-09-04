@@ -1,1 +1,47 @@
-index.html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primera web</title>
+</head>
+
+<body>
+    <h1>EL TITULO DE MI PRIMER PAGINA WEB</h1>
+    <hr>
+    <h2>Presentación</h2>
+    <p><b>Hola</b>, soy <b>Lucas Lovera</b>! Soy estudiante de la Tecnicatura Universitaria en Programación.
+        Nací el <em>24 de Junio de 2004</em> en San Jorge, un pueblo que se encuentra a 200 KM de Rosario
+        <br>
+        <br>
+        <small>En mis tiempos libres me gusta jugar al futbol y ver al rojo <del>aunque sufro mucho jaja</del> </small>
+    </p>
+    <hr>
+    <h2>Medios favoritos</h2>
+    <p>
+        Estas son las 3 páginas que más visito
+    <ol>
+        <li><a href="https://www.youtube.com/" target="_blank">https://www.youtube.com/</a></li>
+        <li><a href="https://frro.cvg.utn.edu.ar/" target="_blank">https://frro.cvg.utn.edu.ar/</a></li>
+        <li><a href="https://github.com/" target="_blank">https://github.com/</a></li>
+    </ol>
+
+    Estas son 3 páginas que te pueden ayudar para hacer una investigación
+    <ul>
+        <li><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank">https://es.wikipedia.org/wiki/Wikipedia:Portada</a></li>
+        <li><a href="https://scholar.google.es/schhp?hl=es" target="_blank">https://scholar.google.es/schhp?hl=es</a></li>
+        <li><a href="https://scielo.org/es/" target="_blank">https://scielo.org/es/</a></li>
+
+    </ul>     
+
+    </p>
+    <hr>
+    <h2>Galeria de imagenes</h2>
+    <img src="C:\Users\ACER\Desktop\Diseño web\perro1.jpg" alt="perros" width="200" height="200">
+    <img src="C:\Users\ACER\Desktop\Diseño web\perro2.jpg" alt="perros" width="200" height="200">
+    <img src="C:\Users\ACER\Desktop\Diseño web\perro3.jpg" alt="perros" width="200" height="200">
+<hr>
+</body>
+
+</html>
